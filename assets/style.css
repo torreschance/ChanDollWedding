@@ -2589,7 +2589,7 @@ figure {
 
 .paragraph-32 {
   font-family: Roboto, sans-serif;
-  font-size: 1.75rem;
+  font-size: 1.5rem;
   line-height: 1.3em;
   display: block;
 }
@@ -3717,7 +3717,7 @@ figure {
   aspect-ratio: 3.25 / 4;
   -webkit-text-fill-color: inherit;
   object-fit: cover;
-  object-position: 50% 3%;
+  /*object-position: 50% 3%;*/
   background-clip: border-box;
   border: 0 solid #000;
   border-radius: 2rem;
